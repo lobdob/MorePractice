@@ -5,4 +5,7 @@ public class JavaClass {
     public static void sleep(){
         System.out.println("I love to sleep");
     }
+    public void eat(){
+        System.out.println("I love fish");
+    }
 }
